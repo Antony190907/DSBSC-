@@ -17,25 +17,37 @@ To write a program to perform DSBSC modulation using SCI LAB and study its spect
 **ALGORITHM:**
 
 ***1.	Define Parameters:***
+
+
 •	Fs: Sampling frequency.
+
 •	T: Duration of the signal.
+
 •	Fc: Carrier frequency.
+
 •	Fm: Frequency of the message signal.
+
 •	Amplitude: Maximum amplitude of the message signal.
 
 ***2.	Generate Signals:***
+
 •	Message Signal: A sinusoidal signal that will be modulated.
+
 •	Carrier Signal: A high-frequency sinusoidal signal used for modulation.
 
 ***3.	DSBSC Modulation:***
+
 •	Modulated Signal: Multiply the message signal by the carrier signal to produce the DSBSC signal.
 
 ***4.	Visualization:***
+
 Plot the message signal, carrier signal, and DSBSC modulated signal.
 
 **PROCEDURE:**
 
 •	Refer Algorithms and write code for the experiment.
+
+
 
 •	Open SCILAB in System
 
