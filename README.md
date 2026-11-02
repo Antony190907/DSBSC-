@@ -1,7 +1,7 @@
 # DSBSC
 
 
-# EX NO: 2	DSB-SC-AM MODULATOR AND DEMODULATOR
+# EX NO: 2	DSB-SC-AM MODULATION using SCILAB
 
 **AIM:**
 
@@ -10,7 +10,7 @@ To write a program to perform DSBSC modulation using SCI LAB and study its spect
 **APPARATUS REQUIRED:**
 
 •	Computer with i3 Processor
-•	SCI LAB
+•	SCI LAB software
 
 **Note:** Keep all the switch faults in off position
 
@@ -30,7 +30,7 @@ To write a program to perform DSBSC modulation using SCI LAB and study its spect
 ***3.	DSBSC Modulation:***
 •	Modulated Signal: Multiply the message signal by the carrier signal to produce the DSBSC signal.
 
-***5.	Visualization:***
+***4.	Visualization:***
 Plot the message signal, carrier signal, and DSBSC modulated signal.
 
 **PROCEDURE:**
@@ -55,6 +55,7 @@ Plot the message signal, carrier signal, and DSBSC modulated signal.
 
 **PROGRAM:**
 ~~~
+
 fm=304;
 Am=2.45;
 fc=10*fm;
@@ -72,6 +73,7 @@ subplot(3,1,2);
 plot(t,ec);
 subplot(3,1,3);
 plot(t,eDSBSC);
+
 ~~~
 
 **OUTPUT GRAPH:**
