@@ -10,6 +10,7 @@ To write a program to perform DSBSC modulation using SCI LAB and study its spect
 **APPARATUS REQUIRED:**
 
 •	Computer with i3 Processor
+
 •	SCI LAB software
 
 **Note:** Keep all the switch faults in off position
